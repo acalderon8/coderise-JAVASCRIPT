@@ -1,0 +1,3 @@
+//comaentario de una linea
+/*este sirve para comentarios
+pero de dos o mas lineas*/
